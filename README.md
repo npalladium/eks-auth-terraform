@@ -2,7 +2,7 @@
 
 Terraform module to make EKS Auth with IAM Roles/Users easier.
 
-[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
+![stability-beta](https://img.shields.io/badge/stability-beta-33bbff.svg)
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
